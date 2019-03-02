@@ -1,0 +1,17 @@
+package loops;
+
+public class loops8 {
+
+	public static void main(String[] args)
+	{
+		int sum=100;
+		
+for (int i=1;i<100;i++)
+	{
+	
+	System.out.println(sum);
+	sum=100;
+}
+	}
+}
+
