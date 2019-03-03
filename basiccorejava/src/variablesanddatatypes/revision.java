@@ -13,10 +13,10 @@ int a=10;
 int b=20;
 
 if(a>b){
-	System.out.println("a is gretest ");
+	System.out.println("a is greatest ");
 }else 
 {
-	System.out.println("b is gretest");
+	System.out.println("b is greatest");
 	
 }
 // Array
@@ -32,7 +32,8 @@ Object[] obj=new Object[3];
 obj[0]=10;
 obj[1]=true;
 obj[2]="Anand";
-System.out.println(obj[10]);
+
+System.out.println(obj[1]);
 
 
 	}
